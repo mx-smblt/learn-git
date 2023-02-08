@@ -1,4 +1,4 @@
 # learn-git
 
-I am Voxaxaxa. hello.
+I am Voxaxaxa, Hello Max and Kos. hello.
 Hello I am Kostya
