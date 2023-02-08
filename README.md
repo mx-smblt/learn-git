@@ -1,3 +1,3 @@
 # learn-git
 
-I am Kostya
+I am Voxaxa
